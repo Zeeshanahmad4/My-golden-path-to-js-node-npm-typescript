@@ -1,0 +1,1 @@
+# My-golden-path-to-js-node-npm-typescript
